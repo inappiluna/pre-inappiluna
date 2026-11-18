@@ -1,0 +1,12 @@
+pkg 程序包文件
+lr LinguaRun可执行文件
+bak 备份文件
+lib 库文件（静态链接文件）
+tmp 临时/缓存文件
+dmp 内核dump文件
+obj 目标/编译中间文件
+dlib 库文件（动态链接文件）
+log 日志文件
+exec 可执行文件
+vd 虚拟设备文件
+iak 内核模块文件/驱动程序文件
